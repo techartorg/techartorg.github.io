@@ -24,6 +24,8 @@ jobs:
         
       - name: GitHub Pages Pelican Build Action
         uses: nelsonjchen/gh-pages-pelican-action@0.1.5
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     
 
     #     # Runs a single command using the runners shell
