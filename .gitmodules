@@ -1,0 +1,6 @@
+[submodule "plugins/pelican-plugins"]
+	path = plugins/pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins
+[submodule "themes/tao-wiki-bootstrap-next"]
+	path = themes/tao-wiki-bootstrap-next
+	url = https://github.com/VictorStepanov/tao-wiki-bootstrap-next

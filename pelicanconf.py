@@ -12,6 +12,15 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 
+THEME = 'themes/tao-wiki-bootstrap-next'
+
+PLUGIN_PATHS = ['plugins/pelican-plugins']
+PLUGINS = ['i18n_subsites']
+
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
