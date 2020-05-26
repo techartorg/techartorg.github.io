@@ -1,0 +1,455 @@
+Programming:
+  2015:
+  - companies:
+    - Bungie
+    slides_url: ''
+    speakers:
+    - David Hunt
+    - Forrest Sderlind
+    title: Tools-Based Rigging in Bungie's Destiny
+    video_url: https://www.gdcvault.com/play/1022339
+  2018:
+  - companies:
+    - Remedy Entertainment
+    slides_url: ''
+    speakers:
+    - Antti Herva
+    title: Production-Level Facial Performance Capture Using Deep Convolutional Neural
+      Networks
+    video_url: https://www.gdcvault.com/play/1025223
+  2019:
+  - companies:
+    - Remedy Entertainment
+    slides_url: ''
+    speakers:
+    - Antti Herva
+    title: 'ML Tutorial Day: Simple Head Pose Estimation for Dialogue Wheels'
+    video_url: https://www.gdcvault.com/play/1025889
+  - companies:
+    - Sony Santa Monica Studio
+    slides_url: ''
+    speakers:
+    - Sean Feeley
+    title: Interactive Wind and Vegetation in 'God of War'
+    video_url: https://www.gdcvault.com/play/1026036
+Technical Art:
+  2009:
+  - companies:
+    - Industrial Light + Magic
+    - Volition
+    - Bioware Austin
+    - Inc
+    - 343 Industries
+    - Microsoft
+    slides_url: ''
+    speakers:
+    - Christopher Evans
+    - Robert Galanakis
+    - Seth Gibson
+    - Jeff Hanna
+    - Ross Patel
+    title: 'Technical Art Techniques Panel: Tools and Pipeline'
+    video_url: https://www.gdcvault.com/play/1321
+  2012:
+  - companies:
+    - Blizzard Entertainment
+    slides_url: ''
+    speakers:
+    - Julian Love
+    title: 'Giant Toads and Zombie Bears: Technical Art Re-envisioned for Diablo 3'
+    video_url: https://www.gdcvault.com/play/1015515
+  2015:
+  - companies:
+    - Undead Labs
+    slides_url: ''
+    speakers:
+    - Steve Theodore
+    title: 'Art Direction Bootcamp : Technical Art Direction'
+    video_url: https://www.gdcvault.com/play/1021806
+  2016:
+  - companies:
+    - Naughty Dog
+    slides_url: ''
+    speakers:
+    - Andrew Maximov
+    title: Technical Art Culture of 'Uncharted 4'
+    video_url: https://www.gdcvault.com/play/1023251
+  2017:
+  - companies:
+    - Naughty Dog
+    slides_url: ''
+    speakers:
+    - Andrew Maximov
+    title: 'Technical Art Techniques of Naughty Dog: Vertex Shaders and Beyond'
+    video_url: https://www.gdcvault.com/play/1024103
+  2019:
+  - companies:
+    - Unity Technologies
+    slides_url: ''
+    speakers:
+    - Cesar Romero
+    title: Super Powering Technical Artists Using Deep Learning
+    video_url: https://www.gdcvault.com/play/1026027
+Technical Artist Bootcamp:
+  2013:
+  - companies:
+    - Ravens Software
+    slides_url: ''
+    speakers:
+    - Phil Sheets
+    title: 'Technical Artist Bootcamp: Improving Facilitator Skills for Tech Artists'
+    video_url: https://www.gdcvault.com/play/1017658
+  - companies:
+    - ArenaNet
+    slides_url: ''
+    speakers:
+    - Pat Corwin
+    title: 'Technical Artist Bootcamp: Python'
+    video_url: https://www.gdcvault.com/play/1017659
+  - companies:
+    - Blizzard Entertainment
+    slides_url: ''
+    speakers:
+    - Julian Love
+    title: 'Technical Artist Bootcamp: The VFX of Diablo'
+    video_url: https://www.gdcvault.com/play/1017660
+  - companies:
+    - Slant Six Games
+    slides_url: ''
+    speakers:
+    - Robert Butterworth
+    - James Ricker
+    title: 'Technical Artist Bootcamp: Galactic Reign, Tools Behind the Procedural
+      Cinematics'
+    video_url: https://www.gdcvault.com/play/1017661
+  - companies:
+    - Double Fine Productions
+    slides_url: ''
+    speakers:
+    - Drew Skillman
+    title: 'Technical Artist Bootcamp: Rapid Prototyping at Double Fine'
+    video_url: https://www.gdcvault.com/play/1017662
+  - companies:
+    - Blizzard Entertainment
+    slides_url: ''
+    speakers:
+    - Rachel Larsen
+    title: 'Technical Artist Bootcamp: Education in Technical Art'
+    video_url: https://www.gdcvault.com/play/1017927
+  2014:
+  - companies:
+    - The MecWarriors
+    - Volition
+    slides_url: ''
+    speakers:
+    - Ashley Egan
+    - Adam Ormsby
+    - Jason Parks
+    title: 'Technical Artist Bootcamp: Intro/Postmortem - Mecanim in Undertakers'
+    video_url: https://www.gdcvault.com/play/1020638
+  - companies:
+    - Rigging Dojo
+    slides_url: ''
+    speakers:
+    - Brad Clark
+    title: 'Technical Artist Bootcamp: Hacking MotionBuilder: 10 Things You Aren''t
+      Doing but Should Be!'
+    video_url: https://www.gdcvault.com/play/1020639
+  - companies:
+    - Ubisoft Montreal
+    slides_url: ''
+    speakers:
+    - Kevin O'Neal
+    title: 'Technical Artist Bootcamp: Virtual Camera System'
+    video_url: https://www.gdcvault.com/play/1020640
+  - companies:
+    - Microsoft Studios (343 Industries)
+    slides_url: ''
+    speakers:
+    - Wes Grandmont III
+    title: 'Technical Artist Bootcamp: Halo 4: Content Performance Tips & Techniques'
+    video_url: https://www.gdcvault.com/play/1020641
+  - companies:
+    - WB/Turbine
+    slides_url: ''
+    speakers:
+    - Chad Moore
+    title: 'Technical Artist Bootcamp: User Experience Design Applied to Technical
+      Art'
+    video_url: https://www.gdcvault.com/play/1020642
+  - companies:
+    - Crytek Frankfurt
+    - 3Lateral
+    slides_url: ''
+    speakers:
+    - Riham Toulan
+    - Vladimir Mastilovic
+    title: 'Technical Artist Bootcamp: Ryse'
+    video_url: https://www.gdcvault.com/play/1020643
+  2015:
+  - companies:
+    - Bungie
+    slides_url: ''
+    speakers:
+    - Paul Vosper
+    title: 'Technical Artist Bootcamp: Defense Against the Dark Arts: Budgets and
+      Budget Reporting'
+    video_url: https://www.gdcvault.com/play/1022286
+  - companies:
+    - Purdue University
+    slides_url: ''
+    speakers:
+    - Dr. David Whittinghill
+    title: 'Technical Artist Bootcamp: Nasum Virtualis: A Simple Technique for Reducing
+      Simulator Sickness in Head Mounted VR'
+    video_url: https://www.gdcvault.com/play/1022287
+  - companies:
+    - Certain Affinity
+    - Zenimax Online
+    - Deep Silver Volition
+    - Purdue University
+    - Bungie
+    slides_url: ''
+    speakers:
+    - Jeff Hanna
+    - Bryan Moss
+    - Luiz Kruel
+    - Richard Katz
+    - Paul Vosper
+    - Dr. David Whittinghill
+    title: 'Technical Artist Bootcamp: Panel Q&A'
+    video_url: https://www.gdcvault.com/play/1022288
+  - companies:
+    - Certain Affinity
+    slides_url: ''
+    speakers:
+    - Luiz Kruel
+    title: 'Technical Artist Bootcamp: Proceduralism and Automation at Certain Affinity'
+    video_url: https://www.gdcvault.com/play/1022289
+  - companies:
+    - Certain Affinity
+    slides_url: ''
+    speakers:
+    - Bryan Moss
+    title: 'Technical Artist Bootcamp: Running the Halo Multiplayer Experience at
+      60fps: A Technical Art Perspective'
+    video_url: https://www.gdcvault.com/play/1022290
+  - companies:
+    - Zenimax Online
+    slides_url: ''
+    speakers:
+    - Richard Katz
+    title: 'Technical Artist Bootcamp: Tech Art in Tamriel: The Elder Scrolls Online''s
+      Character Tools and Pipeline'
+    video_url: https://www.gdcvault.com/play/1022291
+  2016:
+  - companies:
+    - Avalanche Studios
+    slides_url: ''
+    speakers:
+    - Brian Venisky
+    title: 'Technical Artist Bootcamp: Honey, Where is My Wingsuit? - Building the
+      Just Cause 3 Animation and Rigging Pipeline'
+    video_url: https://www.gdcvault.com/play/1023566
+  - companies:
+    - High 5 Games
+    slides_url: ''
+    speakers:
+    - Louai Abu-Osba
+    title: 'Technical Artist Bootcamp: Massively Scalable Pipeline Deployment'
+    video_url: https://www.gdcvault.com/play/1023567
+  - companies:
+    - United Front Games
+    slides_url: ''
+    speakers:
+    - Robert Butterworth
+    title: 'Technical Artist Bootcamp: Let''s Get Physical - Creative Solutions Throughout
+      the Production Cycle'
+    video_url: https://www.gdcvault.com/play/1023568
+  - companies:
+    - BioWare
+    slides_url: ''
+    speakers:
+    - Ben Cloward
+    title: 'Technical Artist Bootcamp: Shaders 101: Foundational Shader Concepts for
+      Tech Artists'
+    video_url: https://www.gdcvault.com/play/1023569
+  - companies:
+    - Volition
+    slides_url: ''
+    speakers:
+    - Jeff Hanna
+    title: 'Technical Artist Bootcamp: Deploying and Maintaining a Unified Toolset
+      Worldwide'
+    video_url: https://www.gdcvault.com/play/1023570
+  2017:
+  - companies:
+    - SideFX Software
+    slides_url: ''
+    speakers:
+    - Luiz Kruel
+    title: 'Technical Artist Bootcamp: Introduction to Proceduralism'
+    video_url: https://www.gdcvault.com/play/1024281
+  - companies:
+    - Google
+    slides_url: ''
+    speakers:
+    - Mary Cassin
+    title: 'Technical Artist Bootcamp: A Tech Artist''s Guide to VR'
+    video_url: https://www.gdcvault.com/play/1024280
+  - companies:
+    - BioWare
+    slides_url: ''
+    speakers:
+    - Ben Cloward
+    title: 'Technical Artist Bootcamp: Shaders 201: Creating Art with Math'
+    video_url: https://www.gdcvault.com/play/1024282
+  - companies:
+    - Certain Affinity
+    - EA Tiburon
+    - Raritan Valley Community College
+    - Lucasfilm
+    - Florida Interactive Entertainment Academy
+    slides_url: ''
+    speakers:
+    - Mary Denman
+    - Barak Moshe
+    - William Crosbie
+    - Chris Roda
+    - Matt Oztalay
+    title: 'Technical Artist Bootcamp: Tech Art for Educators'
+    video_url: https://www.gdcvault.com/play/1024283
+  2018:
+  - companies:
+    - Volition
+    slides_url: ''
+    speakers:
+    - Bob White
+    title: 'Technical Artist Bootcamp: Contributing to Open Source'
+    video_url: https://www.gdcvault.com/play/1025253
+  - companies:
+    - Unity Technologies
+    slides_url: ''
+    speakers:
+    - Robbert-Jan Brems
+    title: 'Technical Artist Bootcamp: Identifying Technical Art by Its Habits'
+    video_url: https://www.gdcvault.com/play/1025254
+  - companies:
+    - BioWare
+    slides_url: ''
+    speakers:
+    - Ross Patel
+    title: 'Technical Artist Bootcamp: Learning an Established Content Creation Pipeline,
+      Workflow and Codebase'
+    video_url: https://www.gdcvault.com/play/1025255
+  - companies:
+    - Phoenix Labs
+    slides_url: ''
+    speakers:
+    - Mykola Konyk
+    - Michael Trottier
+    title: 'Technical Artist Bootcamp: Procedural Islands of ''Dauntless'''
+    video_url: https://www.gdcvault.com/play/1025256
+  - companies:
+    - Creative Assembly
+    slides_url: ''
+    speakers:
+    - Jodie Azhar
+    title: 'Technical Artist Bootcamp: Production Values: Improving Quality, Longevity
+      and Scalability'
+    video_url: https://www.gdcvault.com/play/1025257
+  - companies:
+    - Blizzard Entertainment
+    slides_url: ''
+    speakers:
+    - Richard Katz
+    title: 'Technical Artist Bootcamp: Rigging with Triangles'
+    video_url: https://www.gdcvault.com/play/1025258
+  - companies:
+    - BioWare
+    slides_url: ''
+    speakers:
+    - Ben Cloward
+    title: 'Technical Artist Bootcamp: Shaders 301'
+    video_url: https://www.gdcvault.com/play/1025259
+  - companies:
+    - Avalanche Studios
+    slides_url: ''
+    speakers:
+    - Brian Venisky
+    title: 'Technical Artist Bootcamp: Zen in the Art of Rigging'
+    video_url: https://www.gdcvault.com/play/1025260
+  2019:
+  - companies:
+    - Epic Games
+    slides_url: ''
+    speakers:
+    - Ryan Brucks
+    title: 'Technical Artist Bootcamp: Distance Fields and Shader Simulation Tricks'
+    video_url: https://www.gdcvault.com/play/1025945
+  - companies:
+    - Insomniac Games
+    slides_url: ''
+    speakers:
+    - Sophie Brennan
+    title: 'Technical Artist Bootcamp: Real-Time Cloth Solutions on ''Marvel''s Spider-Man'''
+    video_url: https://www.gdcvault.com/play/1025946
+  - companies:
+    - Funomena
+    slides_url: ''
+    speakers:
+    - Garrett Stevens
+    title: 'Technical Artist Bootcamp: Gotta Go Fast: Shader Optimization for Tech
+      Artists'
+    video_url: https://www.gdcvault.com/play/1025947
+  - companies:
+    - The Creative Assembly
+    slides_url: ''
+    speakers:
+    - Mattias Van Camp
+    title: 'Technical Artist Bootcamp: Cementing Your Duct Tape: Turning Hacks into
+      Tools'
+    video_url: https://www.gdcvault.com/play/1025948
+  - companies:
+    - SideFX Software
+    - Remedy Entertainment
+    slides_url: ''
+    speakers:
+    - Luiz Kruel
+    - Alexander Zotikov
+    title: 'Technical Artist Bootcamp: "Understanding Constraints: A Framework for
+      Tech Art Decision Making" & "Tech Art at Scale: Supporting 2,000 Users"'
+    video_url: https://www.gdcvault.com/play/1025949
+  - companies:
+    - ArenaNet
+    slides_url: ''
+    speakers:
+    - Andrew Christophersen
+    title: 'Technical Artist Bootcamp: The Dual Power of Metanodes in Maya'
+    video_url: https://www.gdcvault.com/play/1025950
+Visual Arts:
+  2010:
+  - companies:
+    - 343 Industries
+    slides_url: ''
+    speakers:
+    - Seth Gibson
+    title: 'Building A Better Halo With Python: Production Proven Techniques'
+    video_url: https://www.gdcvault.com/play/1012253
+  2018:
+  - companies:
+    - SideFX
+    slides_url: ''
+    speakers:
+    - Michael Lyndon
+    title: 'Visual Effects Bootcamp: Zip! Thwack! Ping! Animation Principles of VFX'
+    video_url: https://www.gdcvault.com/play/1025301
+  2019:
+  - companies:
+    - Ltd.
+    - Rare
+    slides_url: ''
+    speakers:
+    - Joakim Mellergard
+    title: 'Visual Effects Bootcamp: Player Interactions Visualized'
+    video_url: https://www.gdcvault.com/play/1025872
