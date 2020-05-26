@@ -9,6 +9,7 @@ pelican==4.2.0
 Pygments==2.6.1
 python-dateutil==2.8.1
 pytz==2020.1
+PyYAML==5.3.1
 six==1.15.0
 Unidecode==1.1.1
 zipp==3.1.0
