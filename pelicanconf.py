@@ -14,6 +14,8 @@ DEFAULT_LANG = 'en'
 
 THEME = 'themes/tao-wiki-bootstrap-next'
 
+BOOTSTRAP_THEME = 'tao'
+
 PLUGIN_PATHS = ['plugins/pelican-plugins']
 PLUGINS = ['i18n_subsites']
 
