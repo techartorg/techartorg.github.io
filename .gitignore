@@ -1,2 +1,4 @@
 output
 content/gen
+.tox
+*.pyc
