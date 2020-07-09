@@ -17,11 +17,15 @@ THEME = 'themes/tao-wiki-bootstrap-next'
 BOOTSTRAP_THEME = 'tao'
 
 PLUGIN_PATHS = ['plugins/pelican-plugins', 'plugins/tao']
-PLUGINS = ['i18n_subsites', 'data_driven_wiki']
+PLUGINS = ['i18n_subsites', 'pelican-page-hierarchy', 'data_driven_wiki']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
+
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+SLUGIFY_SOURCE = 'basename'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
