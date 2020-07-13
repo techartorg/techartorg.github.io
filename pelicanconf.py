@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'TAO-community'
-SITENAME = 'TAO-wiki'
+SITENAME = 'Tech-Artists.Org Wiki'
 SITEURL = ''
 
 PATH = 'content'
