@@ -1,6 +1,6 @@
 Title: Find Latest Installed Program on System
 Date: 01-01-20 16:40
-Template: wiki_base_page
+Template: wiki_leaf_page
 
 
 ```python
