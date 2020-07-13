@@ -1,8 +1,8 @@
 Title: GDC Sessions
 Date: 01-01-20 16:40
 Slug: gdc-wiki
+Template: wiki_branch_page
 
-[Back to TAO Wiki home](/index)
 
 <section class="container">
 <div class="container">
