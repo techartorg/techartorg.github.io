@@ -4,4 +4,4 @@
 [submodule "plugins/pelican-plugins"]
 	path = plugins/pelican-plugins
 	url = https://github.com/VictorStepanov/tao-wiki-pelican-plugins
-	branch = tao
+	branch = tao-wiki
