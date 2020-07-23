@@ -17,7 +17,7 @@ THEME = 'themes/tao-wiki-bootstrap-next'
 BOOTSTRAP_THEME = 'tao'
 
 PLUGIN_PATHS = ['plugins/pelican-plugins', 'plugins/tao']
-PLUGINS = ['i18n_subsites', 'pelican-page-hierarchy', 'data_driven_wiki']
+PLUGINS = ['i18n_subsites', 'pelican-page-hierarchy', 'data_driven_wiki', 'page_tags']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],

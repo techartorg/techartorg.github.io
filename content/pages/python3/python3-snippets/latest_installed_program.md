@@ -1,6 +1,7 @@
 Title: Find Latest Installed Program on System
 Date: 01-01-20 16:40
 Template: wiki_leaf_page
+Tags: python, python3, windows
 
 
 ```python
