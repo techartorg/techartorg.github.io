@@ -63,3 +63,5 @@ licenses:
 - APACHE (text `.gh_actions/LICENSE-APACHE`)
 - MIT (text `.gh_actions/LICENSE-MIT`)
 
+changes:
+- run site gen 2 time; This is needed to process the pages that were generated on the first run.

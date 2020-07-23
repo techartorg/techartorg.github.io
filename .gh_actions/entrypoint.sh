@@ -7,6 +7,8 @@ echo "ACTOR: $GITHUB_ACTOR"
 
 echo '=================== Install Requirements ==================='
 pip install -r requirements.txt
+echo '=================== Gen Pages ==================='
+pelican content -o output -s ${PELICAN_CONFIG_FILE:=pelicanconf.py}
 echo '=================== Build site ==================='
 pelican content -o output -s ${PELICAN_CONFIG_FILE:=pelicanconf.py}
 echo '=================== Publish to GitHub Pages ==================='
