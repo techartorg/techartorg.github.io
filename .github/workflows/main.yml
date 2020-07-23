@@ -26,6 +26,6 @@ jobs:
         uses: textbook/git-checkout-submodule-action@master
         
       - name: GitHub Pages Pelican Build Action
-        uses: .gh_actions@0.1.5
+        uses: ./.gh_actions
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
