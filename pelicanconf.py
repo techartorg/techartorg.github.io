@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import datetime
+
+CURRENT_YEAR = datetime.datetime.now().year
+
 AUTHOR = 'TAO-community'
 SITENAME = 'Tech-Artists.Org Wiki'
 SITEURL = ''
