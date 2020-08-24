@@ -1,0 +1,5 @@
+output
+content/gen
+.tox
+*.pyc
+.gen_page_tags
