@@ -33,7 +33,7 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 
-GITHUB_REPO = 'https://github.com/VictorStepanov/tao-wiki-prototype'
+GITHUB_REPO = 'https://github.com/techartorg/techartorg.github.io'
 
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
