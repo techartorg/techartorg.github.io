@@ -17,6 +17,6 @@ You will need the following:
 
 # Set up a development environment
 
-[Click here](https://github.com/VictorStepanov/techartorg.github.io/blob/master/README.md#setting-up-your-workspace){:target="_blank"} to see up to date instructions on setting up your dev env
+[Click here](https://github.com/techartorg/techartorg.github.io/blob/master/README.md#setting-up-your-workspace){:target="_blank"} to see up to date instructions on setting up your dev env
 
 <br>

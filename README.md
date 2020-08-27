@@ -52,5 +52,5 @@ To start contributing you will need to have the following:
 
 # How To Contribute
 
-- [How to edit a page](https://github.com/VictorStepanov/techartorg.github.io/blob/master/content/pages/contribute/how_to_edit_page.md){:target="_blank"}
-- [How to add a page](https://github.com/VictorStepanov/techartorg.github.io/blob/master/content/pages/contribute/how_to_add_page.md){:target="_blank"}
+- [How to edit a page](https://techartorg.github.io/contribute/how_to_edit_page/)
+- [How to add a page](https://techartorg.github.io/contribute/how_to_add_page/)
