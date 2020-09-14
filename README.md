@@ -49,3 +49,17 @@ To start contributing you will need to have the following:
 
 - [How to edit a page](https://techartorg.github.io/contribute/how_to_edit_page/)
 - [How to add a page](https://techartorg.github.io/contribute/how_to_add_page/)
+
+---
+
+# Licenses
+
+### Code from "GitHub Pages Pelican Build Action"
+origin: https://github.com/nelsonjchen/gh-pages-pelican-action
+
+path: `.gh_actions`
+
+licenses:
+- APACHE (text `.gh_actions/LICENSE-APACHE`)
+- MIT (text `.gh_actions/LICENSE-MIT`)
+
