@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}{{ _('Categories') }} - {{ SITENAME }}{% endblock %}
+
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="icon-home"></i></a></li>
+        <li class="breadcrumb-item active">{{ _('Categories') }}</li>
+    </ol>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <section id="categories">
+      <h1>{{ _('All Categories for')  }} {{ SITENAME }}</h1>
+        <div id="accordion" role="tablist">
+            {% for category, articles in categories %}
+            <div class="card">
+                <h4 class="card-header">
+                    <a class="d-block" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{category.slug}}">{{ category }} <span class="badge badge-default float-right">{{ articles|count }}</span></a>
+                </h4>
+                <div id="collapse-{{category.slug}}" class="collapse" role="tabpanel">
+                    <div class="card-block">
+                        {% for article in articles %}
+                        <p><span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span> <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></p>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </section>
+{% endblock %}

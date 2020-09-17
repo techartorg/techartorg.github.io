@@ -65,3 +65,11 @@ licenses:
 
 changes:
 - run site gen 2 time; This is needed to process the pages that were generated on the first run.
+
+### Code from "bootstrap-next"
+origin: https://github.com/shvchk/bootstrap-next
+
+path: `themes/tao-wiki-bootstrap-next`
+
+licenses:
+- MIT (text `themes/tao-wiki-bootstrap-next/LICENSE`)
