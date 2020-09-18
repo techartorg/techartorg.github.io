@@ -78,8 +78,13 @@ pre {
     margin-right: 3px;
 }
 
+hr {
+    border-top: 1px solid #f4b942;
+}
+
 a, a:hover {
     color: inherit;
+    color: #f4b942;
 }
 
 .entry-content a {
@@ -247,3 +252,15 @@ figure.floatcenter, .align-center {
 .article-list article + hr:last-child {
     display: none;
 }
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    padding: 10px;
+    width: 100%;
+    min-height: 200px;
+    border: 2px #f4b942 solid;
+    color: #f4b942;
+  }

@@ -80,11 +80,13 @@
                 </h1>
             </header>
             <div class="entry-content">
+                {% if SHOW_DATE_PUBLISHED %}
                 <div class="card">
                     <div class="card-block">
                         {% include "includes/article_info.html" %}
                     </div>
                 </div>
+                {% endif %}
                 {{ article.content }}
             </div>
             <!-- /.entry-content -->

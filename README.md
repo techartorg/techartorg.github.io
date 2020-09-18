@@ -73,3 +73,6 @@ path: `themes/tao-wiki-bootstrap-next`
 
 licenses:
 - MIT (text `themes/tao-wiki-bootstrap-next/LICENSE`)
+
+changes:
+- create TAO theme

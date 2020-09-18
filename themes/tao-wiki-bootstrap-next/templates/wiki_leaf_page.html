@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title|striptags }} - {{ SITENAME }}{% endblock %}
+
+{% block breadcrumbs %}{% endblock %}
+
+{% block content %}
+
+<header>
+  <h1>
+      <a href="#" rel="bookmark" title="Permalink to {{ page.title }}">
+        {{ page.title }}
+      </a>
+  </h1>
+</header>
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/index">Home</a></li>
+    {% if page.parents %}
+    {% for parent in page.parents %}
+      <li class="breadcrumb-item"><a href="{{ SITEURL }}/{{ parent.url }}">{{ parent.title }}</a></li>
+    {% endfor %}
+    {% endif %}
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+
+<div class="float-right"><a target="_blank" href="{{ GITHUB_REPO }}/edit/master/content/{{ page.relative_source_path }}">Edit on <i class="icon-github"></i>GitHub</a></div>
+<div class="float-left">
+{% include 'includes/page_taglist.html' %}
+</div>
+{% if page.git_author %}
+<div class="float-right">
+  Created by {{ page.git_author }} on {{ page.git_created_on }} | <a target="_blank" href="{{ GITHUB_REPO }}/commits/master/content/{{ page.relative_source_path }}">{{ page.git_revision_count }}</a> |&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+{% endif %}
+<br><br>
+
+{{ page.content }}
+
+{% endblock content %}

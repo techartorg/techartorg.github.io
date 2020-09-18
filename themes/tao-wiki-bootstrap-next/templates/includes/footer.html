@@ -2,12 +2,8 @@
    <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
       <hr>
       <div class="row">
-         {% if articles %}
-           {% if articles[0].modified %}
-             {% set copy_date = articles[0].modified.strftime('%Y') %}
-           {% else %}
-             {% set copy_date = articles[0].date.strftime('%Y') %}
-           {% endif %}
+         {% if CURRENT_YEAR %}
+            {% set copy_date = CURRENT_YEAR %}
          {% else %}
             {% set copy_date = '' %}
          {% endif %}
