@@ -1,1 +1,0 @@
-pelican -r content -o output -s pelicanconf.py

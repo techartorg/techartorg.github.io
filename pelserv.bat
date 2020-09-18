@@ -1,1 +1,0 @@
-pelican -v -l output

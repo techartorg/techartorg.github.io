@@ -39,13 +39,8 @@ To start contributing you will need to have the following:
 `git clone https://github.com/techartorg/techartorg.github.io.git && cd techartorg.github.io`
 2. Init the `tox` environment for the Python you have installed: \
 `python3 -m tox -e py38`
-3. Activate the `virtual env` that tox created for you: \
-`.tox/py38/Scripts/activate`
-4. Use `peldev.bat` to generate/auto-reload the website: \
-`start peldev.bat`
-4. Use `pelserv.bat` to start hosting the website locally: \
-`start pelserv.bat`
-5. goto `localhost:8000` in a webrowser
+3. Run `win_run_pelican.bat`
+4. goto `localhost:8000` in a webrowser
 
 
 ---
