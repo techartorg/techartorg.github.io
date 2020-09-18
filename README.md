@@ -92,3 +92,6 @@ path: `plugins/pelican-plugins/pelican-page-hierarchy`
 
 licenses:
 - BSD-2-Clause License (text `plugins/pelican-plugins/pelican-page-hierarchy/LICENSE`)
+
+changes:
+- fix bad url separator when running on Windows

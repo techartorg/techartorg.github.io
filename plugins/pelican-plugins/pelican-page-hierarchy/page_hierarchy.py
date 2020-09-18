@@ -57,10 +57,11 @@ def set_relationships(generator):
     # set immediate parents and children
     for page in _all_pages():
         # Parent of /a/b/ is /a/, parent of /a/b.html is /a/
-        parent_url = os.path.dirname(page.url[:-1])
+        parent_url = os.path.dirname(page.url[:-1]).replace('\\', '/')
         if parent_url: parent_url += '/'
         for page2 in _all_pages():
-            if page2.url == parent_url and page2 != page:
+            cur_url = page2.url.replace('\\', '/')
+            if cur_url == parent_url and page2 != page:
                 page.parent = page2
                 page2.children.append(page)
         # If no parent found, try the parent of the default language page
