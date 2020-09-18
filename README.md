@@ -76,3 +76,19 @@ licenses:
 
 changes:
 - create TAO theme
+
+### Code from "I18N Sub-sites Plugin"
+origin: https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites
+
+path: `plugins/pelican-plugins/i18n_subsites`
+
+licenses:
+- AGPL-3.0 License (text `plugins/pelican-plugins/LICENSE`)
+
+### Code from "Page Hierarchy"
+origin: https://github.com/akhayyat/pelican-page-hierarchy
+
+path: `plugins/pelican-plugins/pelican-page-hierarchy`
+
+licenses:
+- BSD-2-Clause License (text `plugins/pelican-plugins/pelican-page-hierarchy/LICENSE`)
