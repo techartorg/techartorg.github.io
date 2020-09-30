@@ -47,7 +47,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Tech-Artists.Org', 'http://discourse.techart.online'),)
+LINKS = (
+    ('Tech-Artists.Org', 'http://discourse.techart.online'),
+    ('Tech-Artists YouTube', 'https://www.youtube.com/channel/UC99UTFaBcPAf6pbYhU8B9nQ'),
+)
 
 # Social widget
 SOCIAL = (('Tech-Artists Slack', 'https://tech-artists.slack.com'),)
