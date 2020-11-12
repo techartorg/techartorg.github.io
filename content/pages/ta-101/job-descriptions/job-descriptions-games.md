@@ -2,11 +2,15 @@ Title: Tech Art Job Descriptions in Games
 Date: 01-01-20 16:40
 Template: wiki_leaf_page
 Tags: job, games
+tao-post-format: True
 
 
 <h2 style="color:red;">This is a Work in Progress</h2>
 
----
+
+<!-- tao-post-format <div class="row"> -->
+<!-- tao-post-format     <div class="col-md-6"> -->
+<!-- tao-post-format <div class="jumbotron"> -->
 
 ## What is a Technical Artist?
 
@@ -18,70 +22,73 @@ The Technical Artist wears a number of hats depending on the following:
 * the size of the team/studio
 * seniority/management role
 
-<br>
-<br>
-<br>
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
----
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+# Tech art interviews
+
+Watch the Tech Art interviews made at GDC by Bill Crosbie
+
+[Tech art interviews](https://www.youtube.com/playlist?list=PL6wbx3PGrmcEtLpwCsQWqixGzLCfeaRCX){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format </div> -->
+
 
 ## Technical Artist Core Responsibilities & Objectives
 
-<br>
-<br>
-<br>
 
----
+<!-- tao-post-format <div class="row"> -->
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
 
 ### Solving Problem, Support & Troubleshooting
-
-<br>
-
 #### Day-to-day
 * provide technical support to artists for issues in the art production pipeline
 * provide technical support for outsourcing
 * help debug issues in complex assets (skeleton rigs)
-
 #### Production Stage: Pre-production
 * outline problem areas of the art production pipeline
-
 #### Production Stage: Production
 * make sure the ramping up of artists on to the project is as smooth as possible
 * help outside vendors set up the required pipelines for outsourcing workflows
-
 #### Production Stage: Finalling
 * providing feedback and help artists get their content within the performance budget
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
-<br>
-<br>
-<br>
-
----
-
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
 ### Develop Tools
-
 * develop/support tools/plug-ins inside DCC tools with the use of built-in scripting languages (Python, MAXScript, MEL)
 * develop/support standalone tools for the content production pipeline to improve/automate the workflow of artists (Python, C#, Rust, C++)
 * integrate new Digital Content Creation packages into the existing pipeline by writing data exporters/importers
 * collaborate with Tools Engineers by providing feedback and test data sets 
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
-<br>
-<br>
-<br>
-
----
-
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
 ### Develop & Support the Game
-
 * create and prototype shaders for the game
 * debug and fix complicated content related game bugs
 * work on game VFX
 * work with engine programers on new game features
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
-<br>
-<br>
-<br>
+<!-- tao-post-format </div> -->
 
----
+
+
+<!-- tao-post-format <div class="row"> -->
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
 
 ### Communication and Advocacy
 
@@ -91,11 +98,11 @@ The Technical Artist wears a number of hats depending on the following:
 * set up feedback and QA process for outsourced art work
 * training and mentoring artists (new workflows, new DCC packages, new tools)
 
-<br>
-<br>
-<br>
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
----
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
 
 ### Content Budgets and Optimization
 
@@ -104,15 +111,17 @@ The Technical Artist wears a number of hats depending on the following:
 * help cleanup scenes
 * help produce content production guidelines to keep assets within budgets 
 
-<br>
-<br>
-<br>
 
----
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
 
 ### Pipeline Architect, Pipeline Design, and R&D
 
-<br>
+
 
 #### Production Stage: Pre-production
 
@@ -126,12 +135,15 @@ The Technical Artist wears a number of hats depending on the following:
 * evaluate updates to DCC packages that are in use
 * research/prototype rendering techniques
 
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
-<br>
-<br>
-<br>
 
----
+<!-- tao-post-format <div class="row"> -->
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
 
 ### Quick Learner
 
@@ -139,90 +151,117 @@ The Technical Artist wears a number of hats depending on the following:
 * keep track of new industry standards and trends
 * hone skills in a selected art discipline
 
-<br>
-<br>
-<br>
 
----
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
+
+
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
 ### Documentation
 
 * develop and maintain documentation for workflows and pipeline tools
 * document best practices and guidelines for content creation
 
-<br>
-<br>
-<br>
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
----
+
 
 ## Technical Artist Core Traits
 _Skills, Knowledge, Experience_
 
 **Note: The lower down the list the more senior the TA**
 
-<h2 style="color:red;">TBD</h2>
+<!-- tao-post-format         <div class="jumbotron"> -->
+# TBD
+<!-- tao-post-format </div> -->
 
-<br>
-<br>
-<br>
-
----
 
 ## Technical Artist Specializations
 _Disciplines_
 
-#### [Animation/Rigging](/ta-101/job-descriptions/game-ta-disciplines/animation-n-rigging/)
+<!-- tao-post-format     <div class="row"> -->
+<!-- tao-post-format         <div class="col-xs-12 col-sm-3"> -->
+<!-- tao-post-format               <div class="box"> -->
 
-#### [Shaders](/ta-101/job-descriptions/game-ta-disciplines/shaders/)
+#### [Animation/Rigging](/ta-101/job-descriptions/game-ta-disciplines/animation-n-rigging/){:target="_blank"}
 
-#### [Visual Effects](/ta-101/job-descriptions/game-ta-disciplines/visual-effects/)
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
-#### [Procedural](#)
+<!-- tao-post-format         <div class="col-xs-12 col-sm-3"> -->
+<!-- tao-post-format               <div class="box"> -->
+#### [Shaders](/ta-101/job-descriptions/game-ta-disciplines/shaders/){:target="_blank"}
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
-#### [Pipeline](/ta-101/job-descriptions/game-ta-disciplines/pipeline/)
+<!-- tao-post-format         <div class="col-xs-12 col-sm-3"> -->
+<!-- tao-post-format               <div class="box"> -->
+#### [Visual Effects](/ta-101/job-descriptions/game-ta-disciplines/visual-effects/){:target="_blank"}
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
 
-#### [Management](#)
+<!-- tao-post-format     <div class="row"> -->
+<!-- tao-post-format         <div class="col-xs-12 col-sm-3"> -->
+<!-- tao-post-format               <div class="box"> -->
 
+#### [Procedural](#){:target="_blank"}
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format         <div class="col-xs-12 col-sm-3"> -->
+<!-- tao-post-format               <div class="box"> -->
+#### [Pipeline](/ta-101/job-descriptions/game-ta-disciplines/pipeline/){:target="_blank"}
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format         <div class="col-xs-12 col-sm-3"> -->
+<!-- tao-post-format               <div class="box"> -->
+#### [Management](#){:target="_blank"}
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format </div> -->
 
 <br>
 <br>
 <br>
-
----
-
 ### References:
 
-* [technical-artist-job-description-at-your-company](http://discourse.techart.online/t/technical-artist-job-description-at-your-company/75)
-* [Technical Artist Guidelines by Eric Chadwick](http://ericchadwick.com/img/techart_guidelines.html)
+* [technical-artist-job-description-at-your-company](http://discourse.techart.online/t/technical-artist-job-description-at-your-company/75){:target="_blank"}
+* [Technical Artist Guidelines by Eric Chadwick](http://ericchadwick.com/img/techart_guidelines.html){:target="_blank"}
 
 
-### TODO References (not processed yet):
+<!-- ### TODO References (not processed yet): -->
 
-* [TA KPIS by Steve Theodore](https://github.com/theodox/ta_101/blob/master/kpis.md)
-* [TA coding 101 by Steve Theodore](https://github.com/theodox/ta_101/blob/master/TA%20coding%20101.md)
-* [The Code/Art Divide: How Technical Artists Bridge The Gap](https://www.gamasutra.com/view/feature/1651/the_codeart_divide_how_technical_.php) 
+* [TA KPIS by Steve Theodore](https://github.com/theodox/ta_101/blob/master/kpis.md){:target="_blank"}
+* [TA coding 101 by Steve Theodore](https://github.com/theodox/ta_101/blob/master/TA%20coding%20101.md){:target="_blank"}
+* [The Code/Art Divide: How Technical Artists Bridge The Gap](https://www.gamasutra.com/view/feature/1651/the_codeart_divide_how_technical_.php){:target="_blank"}
   
-* https://en.wikipedia.org/wiki/Technical_director#Categorization_of_technical_directors_in_film_and_games
-* http://ericchadwick.com/img/techart_guidelines.html
-* https://www.gamasutra.com/view/feature/130548/effective_3d_exporter_design.php
-* https://web.archive.org/web/20080225095341/http://www.easel3d.net/docs/TA_pipe_v1.html
-* https://www.riotgames.com/en/artedu/technical-art
-* Book https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU
-* https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743052
-* Youtube channel ? https://www.youtube.com/channel/UC3yC13t6PLG-UyX28TihKxQ
-* Interview youtube list https://www.youtube.com/watch?v=4QiKJBriBoc&list=PL6wbx3PGrmcEtLpwCsQWqixGzLCfeaRCX
-* https://web.archive.org/web/20100824140416/http://www.microsoft-careers.com/job/Redmond-Technical-Artist-StartUp-Business-Group-Job-WA-98052/834998/ 
-* [python-for-feature-film](http://dgovil.com/blog/2016/11/30/python-for-feature-film/)
-* [what-makes-a-good-tech-art-director](http://discourse.techart.online/t/what-makes-a-good-tech-art-director/13045)
-* [GDC 2010: How to Train your Technical Artist](https://www.gdcvault.com/play/1014087/How-to-Train-your-Technical)
-* [Polycount wiki - Technical Art](http://wiki.polycount.com/wiki/Technical_Art)
+* [https://en.wikipedia.org/wiki/Technical_director#Categorization_of_technical_directors_in_film_and_games](https://en.wikipedia.org/wiki/Technical_director#Categorization_of_technical_directors_in_film_and_games){:target="_blank"}
+* [https://www.gamasutra.com/view/feature/130548/effective_3d_exporter_design.php](https://www.gamasutra.com/view/feature/130548/effective_3d_exporter_design.php){:target="_blank"}
+* [https://web.archive.org/web/20080225095341/http://www.easel3d.net/docs/TA_pipe_v1.html](https://web.archive.org/web/20080225095341/http://www.easel3d.net/docs/TA_pipe_v1.html){:target="_blank"}
+* [https://www.riotgames.com/en/artedu/technical-art](https://www.riotgames.com/en/artedu/technical-art){:target="_blank"}
+* [Book https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU](https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU){:target="_blank"}
+* [https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743052](https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743052){:target="_blank"}
+* [Youtube channel ? https://www.youtube.com/channel/UC3yC13t6PLG-UyX28TihKxQ](https://www.youtube.com/channel/UC3yC13t6PLG-UyX28TihKxQ){:target="_blank"}
+* [Interview youtube list https://www.youtube.com/watch?v=4QiKJBriBoc&list=PL6wbx3PGrmcEtLpwCsQWqixGzLCfeaRCX](https://www.youtube.com/watch?v=4QiKJBriBoc&list=PL6wbx3PGrmcEtLpwCsQWqixGzLCfeaRCX){:target="_blank"}
+* [https://web.archive.org/web/20100824140416/http://www.microsoft-careers.com/job/Redmond-Technical-Artist-StartUp-Business-Group-Job-WA-98052/834998/ ](https://web.archive.org/web/20100824140416/http://www.microsoft-careers.com/job/Redmond-Technical-Artist-StartUp-Business-Group-Job-WA-98052/834998/ ){:target="_blank"}
+* [python-for-feature-film](http://dgovil.com/blog/2016/11/30/python-for-feature-film/){:target="_blank"}
+* [what-makes-a-good-tech-art-director](http://discourse.techart.online/t/what-makes-a-good-tech-art-director/13045){:target="_blank"}
+* [GDC 2010: How to Train your Technical Artist](https://www.gdcvault.com/play/1014087/How-to-Train-your-Technical){:target="_blank"}
+* [Polycount wiki - Technical Art](http://wiki.polycount.com/wiki/Technical_Art){:target="_blank"}
 
 
 ### Other tool dev examples:
-* [What is a technical game designer?](https://technicalgamedesign.blogspot.com/2012/07/what-is-technical-game-designer.html)
-* [tool-development-roles](https://tools.engineer/tool-development-roles)
-* [Tools Engineer Recruiting FAQ](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq)
-* [The Problem With Ad-Hoc Tools Teams](http://thetoolsmiths.org/2009/02/03/the-problem-with-ad-hoc-tools-teams/)
-* [Best of Comments: Ad-hoc and GDC](http://thetoolsmiths.org/2009/02/16/best-of-comments-ad-hoc-and-gdc/)
-* [GDC 2015: Tools Development at Ubisoft: Building a Shared Vision to Improve the User Experience](https://www.gdcvault.com/play/1022337/Tools-Development-at-Ubisoft-Building)
+* [What is a technical game designer?](https://technicalgamedesign.blogspot.com/2012/07/what-is-technical-game-designer.html){:target="_blank"}
+* [tool-development-roles](https://tools.engineer/tool-development-roles){:target="_blank"}
+* [Tools Engineer Recruiting FAQ](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq){:target="_blank"}
+* [The Problem With Ad-Hoc Tools Teams](http://thetoolsmiths.org/2009/02/03/the-problem-with-ad-hoc-tools-teams/){:target="_blank"}
+* [Best of Comments: Ad-hoc and GDC](http://thetoolsmiths.org/2009/02/16/best-of-comments-ad-hoc-and-gdc/){:target="_blank"}
+* [GDC 2015: Tools Development at Ubisoft: Building a Shared Vision to Improve the User Experience](https://www.gdcvault.com/play/1022337/Tools-Development-at-Ubisoft-Building){:target="_blank"}

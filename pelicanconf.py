@@ -26,7 +26,8 @@ PLUGINS = [
     'pelican-page-hierarchy',
     'data_driven_wiki',
     'page_tags',
-    'page_contributors'
+    'page_contributors',
+    'page_post_auto_format',
 ]
 
 JINJA_ENVIRONMENT = {
@@ -56,6 +57,8 @@ LINKS = (
 SOCIAL = (('Tech-Artists Slack', 'https://tech-artists.slack.com'),)
 
 DEFAULT_PAGINATION = False
+
+BOOTSTRAP_FLUID = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
