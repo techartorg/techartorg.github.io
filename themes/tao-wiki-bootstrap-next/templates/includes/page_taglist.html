@@ -1,0 +1,8 @@
+{% if page.tags %}
+<span class="tags">
+    <i class="icon-tag"></i>
+    {% for tag in page.tags %}
+        <a target="_blank" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+</span>
+{% endif %}

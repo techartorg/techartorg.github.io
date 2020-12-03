@@ -26,7 +26,8 @@ PLUGINS = [
     'pelican-page-hierarchy',
     'data_driven_wiki',
     'page_tags',
-    'page_contributors'
+    'page_contributors',
+    'page_post_auto_format',
 ]
 
 JINJA_ENVIRONMENT = {
@@ -47,12 +48,17 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Tech-Artists.Org', 'http://discourse.techart.online'),)
+LINKS = (
+    ('Tech-Artists.Org', 'http://discourse.techart.online'),
+    ('Tech-Artists YouTube', 'https://www.youtube.com/channel/UC99UTFaBcPAf6pbYhU8B9nQ'),
+)
 
 # Social widget
 SOCIAL = (('Tech-Artists Slack', 'https://tech-artists.slack.com'),)
 
 DEFAULT_PAGINATION = False
+
+BOOTSTRAP_FLUID = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title|striptags }} - {{ SITENAME }}{% endblock %}
+
+{% block breadcrumbs %}{% endblock %}
+
+{% block content %}
+
+<header>
+  <h1>
+      <a href="#" rel="bookmark" title="Permalink to {{ page.title }}">
+        {{ page.title }}
+      </a>
+  </h1>
+</header>
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/index">Home</a></li>
+    {% if page.parents %}
+    {% for parent in page.parents %}
+      <li class="breadcrumb-item"><a href="{{ SITEURL }}/{{ parent.url }}">{{ parent.title }}</a></li>
+    {% endfor %}
+    {% endif %}
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+
+{{ page.content }}
+
+<ul>
+  {% for child in page.children %}
+  <li><h4><a href="{{ SITEURL }}/{{ child.url }}">{{ child.title }}</a></h4></li>
+  {% endfor %}
+</ul>
+
+{% endblock content %}
