@@ -233,7 +233,7 @@ _Disciplines_
 <br>
 ### References:
 
-* [technical-artist-job-description-at-your-company](http://discourse.techart.online/t/technical-artist-job-description-at-your-company/75){:target="_blank"}
+* [Technical Artist job description at your company](http://discourse.techart.online/t/technical-artist-job-description-at-your-company/75){:target="_blank"}
 * [Technical Artist Guidelines by Eric Chadwick](http://ericchadwick.com/img/techart_guidelines.html){:target="_blank"}
 
 
@@ -242,23 +242,33 @@ _Disciplines_
 * [TA KPIS by Steve Theodore](https://github.com/theodox/ta_101/blob/master/kpis.md){:target="_blank"}
 * [TA coding 101 by Steve Theodore](https://github.com/theodox/ta_101/blob/master/TA%20coding%20101.md){:target="_blank"}
 * [The Code/Art Divide: How Technical Artists Bridge The Gap](https://www.gamasutra.com/view/feature/1651/the_codeart_divide_how_technical_.php){:target="_blank"}
-  
-* [https://en.wikipedia.org/wiki/Technical_director#Categorization_of_technical_directors_in_film_and_games](https://en.wikipedia.org/wiki/Technical_director#Categorization_of_technical_directors_in_film_and_games){:target="_blank"}
-* [https://www.gamasutra.com/view/feature/130548/effective_3d_exporter_design.php](https://www.gamasutra.com/view/feature/130548/effective_3d_exporter_design.php){:target="_blank"}
-* [https://web.archive.org/web/20080225095341/http://www.easel3d.net/docs/TA_pipe_v1.html](https://web.archive.org/web/20080225095341/http://www.easel3d.net/docs/TA_pipe_v1.html){:target="_blank"}
-* [https://www.riotgames.com/en/artedu/technical-art](https://www.riotgames.com/en/artedu/technical-art){:target="_blank"}
-* [Book https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU](https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU){:target="_blank"}
-* [https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743052](https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743052){:target="_blank"}
-* [Youtube channel ? https://www.youtube.com/channel/UC3yC13t6PLG-UyX28TihKxQ](https://www.youtube.com/channel/UC3yC13t6PLG-UyX28TihKxQ){:target="_blank"}
-* [Interview youtube list https://www.youtube.com/watch?v=4QiKJBriBoc&list=PL6wbx3PGrmcEtLpwCsQWqixGzLCfeaRCX](https://www.youtube.com/watch?v=4QiKJBriBoc&list=PL6wbx3PGrmcEtLpwCsQWqixGzLCfeaRCX){:target="_blank"}
-* [https://web.archive.org/web/20100824140416/http://www.microsoft-careers.com/job/Redmond-Technical-Artist-StartUp-Business-Group-Job-WA-98052/834998/ ](https://web.archive.org/web/20100824140416/http://www.microsoft-careers.com/job/Redmond-Technical-Artist-StartUp-Business-Group-Job-WA-98052/834998/ ){:target="_blank"}
-* [python-for-feature-film](http://dgovil.com/blog/2016/11/30/python-for-feature-film/){:target="_blank"}
-* [what-makes-a-good-tech-art-director](http://discourse.techart.online/t/what-makes-a-good-tech-art-director/13045){:target="_blank"}
-* [GDC 2010: How to Train your Technical Artist](https://www.gdcvault.com/play/1014087/How-to-Train-your-Technical){:target="_blank"}
+* [Technical Directors in film and games](https://en.wikipedia.org/wiki/Technical_director#Categorization_of_technical_directors_in_film_and_games){:target="_blank"}
+* [Effective 3D Exporter Design](https://www.gamasutra.com/view/feature/130548/effective_3d_exporter_design.php){:target="_blank"}
+* [TA: Keeper of the Pipe v1.7](https://web.archive.org/web/20080225095341/http://www.easel3d.net/docs/TA_pipe_v1.html){:target="_blank"}
+* [Technical Art at Riot Games](https://www.riotgames.com/en/artedu/technical-art){:target="_blank"}
+* [Technical Artist Job](https://web.archive.org/web/20100824140416/http://www.microsoft-careers.com/job/Redmond-Technical-Artist-StartUp-Business-Group-Job-WA-98052/834998/ ){:target="_blank"}
+* [Python For Feature Film](http://dgovil.com/blog/2016/11/30/python-for-feature-film/){:target="_blank"}
+* [What makes a great tech art director?](http://discourse.techart.online/t/what-makes-a-good-tech-art-director/13045){:target="_blank"}
 * [Polycount wiki - Technical Art](http://wiki.polycount.com/wiki/Technical_Art){:target="_blank"}
 
+#### GDC 
+* [GDC 2010: How to Train your Technical Artist](https://www.gdcvault.com/play/1014087/How-to-Train-your-Technical){:target="_blank"}
 
-### Other tool dev examples:
+#### YouTube
+* [Tech Art Interviews](https://www.youtube.com/playlist?list=PL6wbx3PGrmcEtLpwCsQWqixGzLCfeaRCX)
+* [Pipeliner](https://www.youtube.com/channel/UC3yC13t6PLG-UyX28TihKxQ)
+
+#### Books
+* ["Production Pipeline Fundamentals for Film and Games"](https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU){:target="_blank"}
+* ["Rigging for Games: A Primer for Technical Artists Using Maya and Python"](https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743052){:target="_blank"}
+
+#### Other Languages
+##### Russian
+* Podcast "How Games Are Made" with Michael Kuzmin & Sergey Galyonkin 
+    * [Part 1](https://kdicast.com/e/210-tech-art/){:target="_blank"}
+    * [Part 2](https://kdicast.com/e/211-tech-art-2/){:target="_blank"}
+
+### Examples of other Tool Dev Roles:
 * [What is a technical game designer?](https://technicalgamedesign.blogspot.com/2012/07/what-is-technical-game-designer.html){:target="_blank"}
 * [tool-development-roles](https://tools.engineer/tool-development-roles){:target="_blank"}
 * [Tools Engineer Recruiting FAQ](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq){:target="_blank"}
