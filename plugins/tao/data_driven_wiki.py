@@ -32,7 +32,7 @@ Slug: gdc-{track_name.lower().replace(' ', '-')}-sessions\n\n"""
             for session_data in sessions:
                 title = session_data["title"]
                 url = session_data["video_url"]
-                track_content += f'- [{title}]({url})\n'
+                track_content += f'- [{title}]({url}){{:target="_blank"}}\n'
         track_sessions_name = f'gdc_sessions_{track_name.lower().replace(" ", "_")}.md'
         path = os.path.join(output_gen_folder, track_sessions_name)
         with open(path, 'w') as out:
