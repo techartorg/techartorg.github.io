@@ -176,8 +176,111 @@ _Skills, Knowledge, Experience_
 
 **Note: The lower down the list the more senior the TA**
 
+<h2 style="color:red;">This section ia a Work in Progress</h2>
+
+
+<!-- tao-post-format <div class="row"> -->
+<!-- tao-post-format     <div class="col-md-4"> -->
 <!-- tao-post-format         <div class="jumbotron"> -->
-# TBD
+
+### Databases
+_be familiar with at least one db technology_
+
+* [NoSQL](https://en.wikipedia.org/wiki/NoSQL){:target="_blank"}
+* [SQL](https://en.wikipedia.org/wiki/SQL){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+### Revision Control
+_comfortable with at least one of the following_
+
+* [Perforce](https://www.perforce.com/){:target="_blank"}
+* [git](https://git-scm.com/){:target="_blank"}
+* [SVN](https://subversion.apache.org/){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+
+### Scripting/Programming Languages 
+_comfortable with at least one of the following_
+
+* [Python 3](https://www.python.org/){:target="_blank"}
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/){:target="_blank"}
+* [C/C++](https://isocpp.org/tour){:target="_blank"}
+* [Rust](https://www.rust-lang.org/){:target="_blank"}
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+
+### Game Engines
+_be familiar with at least one game engine pipeline_
+
+* [Unity](https://learn.unity.com/){:target="_blank"}
+* [Unreal](https://www.unrealengine.com/en-US/onlinelearning-courses){:target="_blank"}
+* [CRYENGINE](https://www.cryengine.com/tutorials){:target="_blank"}
+* [Godot](https://docs.godotengine.org/en/stable/){:target="_blank"}
+* [Lumberyard](https://aws.amazon.com/lumberyard/videos/){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+### GUI frameworks
+
+* [Qt (C++)](https://www.qt.io/develop){:target="_blank"}
+    * [PySide2 or Qt for Python](https://www.qt.io/qt-for-python){:target="_blank"}
+    * [PyQt](https://riverbankcomputing.com/software/pyqt/){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+### Digital Content Creation tools
+_have a deep knowledge of at least one_
+
+* [Blender](https://www.blender.org/){:target="_blank"}
+* [Houdini](https://www.sidefx.com/products/houdini/){:target="_blank"}
+* [Substance Suite](https://www.substance3d.com/substance/){:target="_blank"}
+* [Photoshop](https://www.adobe.com/products/photoshop.html){:target="_blank"}
+* [Zbrush](http://pixologic.com/features/about-zbrush.php){:target="_blank"}
+* [Quixel Suite](https://quixel.com/){:target="_blank"}
+* [Modo](https://www.foundry.com/products/modo){:target="_blank"}
+* [Mudbox](https://www.autodesk.com/products/mudbox/overview){:target="_blank"}
+* [Maya](https://www.autodesk.com/products/maya/overview){:target="_blank"}
+* [3ds Max](https://www.autodesk.com/products/3ds-max/overview){:target="_blank"}
+* [MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format </div> -->
+
+
+
+
+<!-- tao-post-format         <div class="jumbotron"> -->
+# TBD...
 <!-- tao-post-format </div> -->
 
 
