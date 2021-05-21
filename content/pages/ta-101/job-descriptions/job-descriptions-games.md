@@ -39,19 +39,32 @@ Watch the Tech Art interviews made at GDC by Bill Crosbie
 
 <!-- tao-post-format </div> -->
 
-
-## Technical Artist Core Responsibilities & Objectives
+## Technical Artist Day-to-day
 
 
 <!-- tao-post-format <div class="row"> -->
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+* provide technical support to artists for issues in the art production pipeline
+* provide technical support for outsourcing
+* help debug issues in complex assets (skeleton rigs)
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+## Technical Artist Responsibilities & Objectives
+
+
+<!-- tao-post-format <div class="row"> -->
+
 <!-- tao-post-format     <div class="col-md-4"> -->
 <!-- tao-post-format         <div class="jumbotron"> -->
 
 ### Solving Problem, Support & Troubleshooting
-#### Day-to-day
-* provide technical support to artists for issues in the art production pipeline
-* provide technical support for outsourcing
-* help debug issues in complex assets (skeleton rigs)
+
 #### Production Stage: Pre-production
 * outline problem areas of the art production pipeline
 #### Production Stage: Production
@@ -74,21 +87,6 @@ Watch the Tech Art interviews made at GDC by Bill Crosbie
 
 <!-- tao-post-format     <div class="col-md-4"> -->
 <!-- tao-post-format         <div class="jumbotron"> -->
-### Develop & Support the Game
-* create and prototype shaders for the game
-* debug and fix complicated content related game bugs
-* work on game VFX
-* work with engine programers on new game features
-<!-- tao-post-format </div> -->
-<!-- tao-post-format </div> -->
-
-<!-- tao-post-format </div> -->
-
-
-
-<!-- tao-post-format <div class="row"> -->
-<!-- tao-post-format     <div class="col-md-4"> -->
-<!-- tao-post-format         <div class="jumbotron"> -->
 
 ### Communication and Advocacy
 
@@ -98,6 +96,66 @@ Watch the Tech Art interviews made at GDC by Bill Crosbie
 * set up feedback and QA process for outsourced art work
 * training and mentoring artists (new workflows, new DCC packages, new tools)
 
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format <div class="row"> -->
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+### Pipeline Architect, Pipeline Design
+
+#### Production Stage: Pre-production
+
+* conduct postmortems of previous production pipeline technology
+* develop new ways to make the production pipeline more efficient
+* help with the pre-production stage for select art departments (the art discipline you specialize in)
+* define and set up new authoring pipelines
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+### Research and Development
+
+#### Production Stage: Pre-production/Production
+
+* research and development of new pipeline technology
+* help engine programmers define new engine features
+* help programmers test new technologies and provide feedback
+* decide on using new DCC packages
+* evaluate updates to DCC packages that are in use
+* research/prototype rendering techniques
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format </div> -->
+
+
+<!-- tao-post-format <div class="row"> -->
+
+
+<!-- tao-post-format </div> -->
+
+
+## Technical Artist Goals
+
+<!-- tao-post-format <div class="row"> -->
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+### Develop & Support the Game
+* create and prototype shaders for the game
+* debug and fix complicated content related game bugs
+* work on game VFX
+* work with engine programers on new game features
 <!-- tao-post-format </div> -->
 <!-- tao-post-format </div> -->
 
@@ -115,49 +173,6 @@ Watch the Tech Art interviews made at GDC by Bill Crosbie
 <!-- tao-post-format </div> -->
 <!-- tao-post-format </div> -->
 
-
-<!-- tao-post-format     <div class="col-md-4"> -->
-<!-- tao-post-format         <div class="jumbotron"> -->
-
-### Pipeline Architect, Pipeline Design, and R&D
-
-
-
-#### Production Stage: Pre-production
-
-* conduct postmortems of previous production pipeline technology
-* research and development of new pipeline technology
-* help engine programmers define new engine features
-* develop new ways to make the production pipeline more efficient
-* help with the pre-production stage for select art departments (the art discipline you specialize in)
-* define and set up new authoring pipelines
-* decide on using new DCC packages
-* evaluate updates to DCC packages that are in use
-* research/prototype rendering techniques
-
-<!-- tao-post-format </div> -->
-<!-- tao-post-format </div> -->
-<!-- tao-post-format </div> -->
-
-
-<!-- tao-post-format <div class="row"> -->
-<!-- tao-post-format     <div class="col-md-4"> -->
-<!-- tao-post-format         <div class="jumbotron"> -->
-
-
-### Quick Learner
-
-* quickly learn new art packages
-* keep track of new industry standards and trends
-* hone skills in a selected art discipline
-
-
-<!-- tao-post-format </div> -->
-<!-- tao-post-format </div> -->
-
-
-
-
 <!-- tao-post-format     <div class="col-md-4"> -->
 <!-- tao-post-format         <div class="jumbotron"> -->
 ### Documentation
@@ -167,31 +182,16 @@ Watch the Tech Art interviews made at GDC by Bill Crosbie
 
 <!-- tao-post-format </div> -->
 <!-- tao-post-format </div> -->
+
 <!-- tao-post-format </div> -->
 
-
-
-## Technical Artist Core Traits
+## Technical Artist Traits
 _Skills, Knowledge, Experience_
-
-**Note: The lower down the list the more senior the TA**
 
 <h2 style="color:red;">This section ia a Work in Progress</h2>
 
 
 <!-- tao-post-format <div class="row"> -->
-<!-- tao-post-format     <div class="col-md-4"> -->
-<!-- tao-post-format         <div class="jumbotron"> -->
-
-### Databases
-_be familiar with at least one db technology_
-
-* [NoSQL](https://en.wikipedia.org/wiki/NoSQL){:target="_blank"}
-* [SQL](https://en.wikipedia.org/wiki/SQL){:target="_blank"}
-
-<!-- tao-post-format </div> -->
-<!-- tao-post-format </div> -->
-
 
 <!-- tao-post-format     <div class="col-md-4"> -->
 <!-- tao-post-format         <div class="jumbotron"> -->
@@ -270,6 +270,34 @@ _have a deep knowledge of at least one_
 * [Maya](https://www.autodesk.com/products/maya/overview){:target="_blank"}
 * [3ds Max](https://www.autodesk.com/products/3ds-max/overview){:target="_blank"}
 * [MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+### Databases
+_be familiar with at least one db technology_
+
+_Note: some TA positions won't require this knowledge. But as you become senior this knowledge will become valuable._
+
+* [NoSQL](https://en.wikipedia.org/wiki/NoSQL){:target="_blank"}
+* [SQL](https://en.wikipedia.org/wiki/SQL){:target="_blank"}
+
+<!-- tao-post-format </div> -->
+<!-- tao-post-format </div> -->
+
+<!-- tao-post-format     <div class="col-md-4"> -->
+<!-- tao-post-format         <div class="jumbotron"> -->
+
+
+### Quick Learner
+
+* quickly learn new art packages
+* keep track of new industry standards and trends
+* hone skills in a selected art discipline
+
 
 <!-- tao-post-format </div> -->
 <!-- tao-post-format </div> -->
@@ -353,6 +381,8 @@ _Disciplines_
 * [Python For Feature Film](http://dgovil.com/blog/2016/11/30/python-for-feature-film/){:target="_blank"}
 * [What makes a great tech art director?](http://discourse.techart.online/t/what-makes-a-good-tech-art-director/13045){:target="_blank"}
 * [Polycount wiki - Technical Art](http://wiki.polycount.com/wiki/Technical_Art){:target="_blank"}
+* [Tech Artist - What are you working on: FOREVER Edition!](https://polycount.com/discussion/68788/tech-artist-what-are-you-working-on-forever-edition){:target="_blank"}
+
 
 #### GDC 
 * [GDC 2010: How to Train your Technical Artist](https://www.gdcvault.com/play/1014087/How-to-Train-your-Technical){:target="_blank"}
